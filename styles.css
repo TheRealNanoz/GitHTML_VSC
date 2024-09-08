@@ -1,0 +1,34 @@
+h1 {
+    color:cyan;
+    font-size: 50px;
+    font-family: Futura;
+      src: local('Futura Std');
+}
+.Main {
+    color:white;
+    text-align: center;
+    z-index: 10;
+    display: block;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    right: 60px;
+    left: 60px;
+    background: rgba(0,0,0,0.5);
+    border: 2px solid black;
+}
+.github_ref {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.youtube {
+    color:red;
+}
+
+
+body {
+    background-position: center;
+    background-position-y: -400px;
+    background-image: url('images/back/kali-linux-wallpaper-v7.png');
+}
